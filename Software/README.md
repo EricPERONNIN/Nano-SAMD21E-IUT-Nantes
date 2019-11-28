@@ -1,0 +1,2 @@
+Tous les éléments logiciels sont placés ici.
+Le dossier **Arduino_Board_Manager** contient les fichiers nécessaires à l'intégration des cartes SAMD de l'IUT dont le fichier json à ajouter à la liste des URLs des cartes supplémentaires dans l'IDE Arduino.
