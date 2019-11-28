@@ -1,14 +1,18 @@
-# Nano-samd21-IUT-Nantes
+# Nano-SAMD21E-IUT-Nantes
 Module SAMD21E avec compatibilité Arduino
 
 Ce module a été conçu pour des activités de travaux pratiques à l'IUT de Nantes dans le département GEII.
 Il repose sur l'utilisation d'un SAMD21E en boitier TQFP choisi pour son pas de 0.8mm qui permet aux étudiants de l'intégrer ensuite dans leurs propres cartes au cours des projets de seconde année.
 Sur ce dépôt, vous trouverez l'ensemble des documents permettant de fabriquer le module et de le programmer.
+Deux dossiers sont présents dans ce dépôt :
+
+*Hardware* : contient tous les éléments concernant la fabrication du module.
+*Software* : contient les fichiers permettant d'ajouter le module dans la liste des boards Arduino.
 
 # Installation sous Arduino
 
 - Rendez-vous dans la boite de dialogue des préférences (*Fichier->Préférences...*).
-- Sous l'onglet Paramètres, ajouter https://github.com/EricPERONNIN/Nano-samd21-IUT-Nantes/raw/master/IDE_Board_Manager/package_iut_nantes_index.json à la liste des URL de gestionnaire de cartes supplémentaires.
+- Sous l'onglet Paramètres, ajouter https://github.com/EricPERONNIN/Nano-SAMD21E-IUT-Nantes/raw/master/Software/Arduino_Board_Manager/package_iut_nantes_index.json à la liste des URL de gestionnaire de cartes supplémentaires.
 **Note:** Si le champ n'est pas vide, penser à ajouter une virgule avant le nouveau lien.
 
 # Installation sous Visual Studio Code pour une programmation avec l'extension Arduino
@@ -23,7 +27,7 @@ Sur ce dépôt, vous trouverez l'ensemble des documents permettant de fabriquer 
 - Cliquer sur *Edit in settings.json* pour configuer les URLs additionnelles et ajouter l'URL de sorte d'avoir quelques choses de ce genre :
   "arduino.additionalUrls": [
         "package_index.json",
-        "https://github.com/EricPERONNIN/Nano-samd21-IUT-Nantes/raw/master/IDE_Board_Manager/package_iut_nantes_index.json"
+        "https://github.com/EricPERONNIN/Nano-SAMD21E-IUT-Nantes/raw/master/Software/Arduino_Board_Manager/package_iut_nantes_index.json"
         ]
 ## On ajoute la carte Nano SAMD21 IUT Nantes :
 - Accéder à la commande *Arduino: Board Manager* par *CTRL+MAJ+P*
