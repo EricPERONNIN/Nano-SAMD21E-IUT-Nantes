@@ -6,8 +6,8 @@ Il repose sur l'utilisation d'un SAMD21E en boitier TQFP choisi pour son pas de 
 Sur ce dépôt, vous trouverez l'ensemble des documents permettant de fabriquer le module et de le programmer.
 Deux dossiers sont présents dans ce dépôt :
 
-*Hardware* : contient tous les éléments concernant la fabrication du module.
-*Software* : contient les fichiers permettant d'ajouter le module dans la liste des boards Arduino.
+- *Hardware* : contient tous les éléments concernant la fabrication du module.
+- *Software* : contient les fichiers permettant d'ajouter le module dans la liste des boards Arduino.
 
 # Installation sous Arduino
 
