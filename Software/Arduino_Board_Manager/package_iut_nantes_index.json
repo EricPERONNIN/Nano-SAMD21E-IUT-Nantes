@@ -14,7 +14,7 @@
           "architecture": "samd",
           "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/EricPERONNIN/Nano-samd21-IUT-Nantes/raw/master/Software/Arduino_Board_Manager/iut-nantes-samd-1.0.1.tar",
+          "url": "https://github.com/EricPERONNIN/Nano-SAMD21E-IUT-Nantes/raw/master/Software/Arduino_Board_Manager/iut-nantes-samd-1.0.1.tar",
           "archiveFileName": "iut-nantes-samd-1.0.1.tar",
           "checksum": "SHA-256:6076018D3654EBDDA99FF8349AAAAF5A829128794070C85D62DB7131CED88DE1",
           "size": "14045696",
