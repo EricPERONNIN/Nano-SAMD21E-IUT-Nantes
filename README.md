@@ -17,10 +17,10 @@ Deux dossiers sont présents dans ce dépôt :
 
 # Installation sous Visual Studio Code pour une programmation avec l'extension Arduino
 
-*Prérequis:*
-*- Avoir installer l'IDE Arduino (1.8.10 minimum).*
-*- Avoir installer l'extension Arduino (la version Microsoft) pour VS Code.*
-*- Avoir ajouter le paquet Arduino pour les cartes à base de SAMD (Arduino SAMD Boards (32 bits ARM Cortex-M0+), version 1.8.1 minimum).*
+*Prérequis* :
+- *Avoir installer l'IDE Arduino (1.8.10 minimum).*
+- *Avoir installer l'extension Arduino (la version Microsoft) pour VS Code.*
+- *Avoir ajouter le paquet Arduino pour les cartes à base de SAMD (Arduino SAMD Boards (32 bits ARM Cortex-M0+), version 1.8.1 minimum).*
 ## On commence par configurer l'extension Arduino de VS Code :
 - Menu *File -> Préférences -> Extensions*.
 - Cliquer sur la roue crantée de l'extension Arduino et choisir *Configure Extension Settings*.
