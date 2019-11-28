@@ -32,10 +32,10 @@ C'est l'approche recommandée pour bénéficier d'un éditeur léger, réactif, 
         ]
 ## On ajoute la carte Nano SAMD21 IUT Nantes :
 - Accéder à la commande *Arduino: Board Manager* par *CTRL+MAJ+P*
-- Recherche le module *Nano SAMD21 IUT Nantes* en appliquant le filtre IUT par exemple.
+- Recherche le module *Nano SAMD21E IUT Nantes* en appliquant le filtre IUT par exemple.
 - Procéder à l'installation de la carte et des fichiers associés en cliquant sur *Installer* (en choisissant la dernière version proposée).
 - Redémarrer VS Code.
 ## Test
 - Créer un nouveau projet basé sur l'exemple Blink.
-- Choisir la carte *Nano SAMD21 IUT Nantes* comme cible pour le projet et sélectionner le *port* qui convient.
+- Choisir la carte *Nano SAMD21E IUT Nantes* comme cible pour le projet et sélectionner le *PORT* qui convient.
 - Tester l'exécution (*CTRL+MAJ+P* suivi de *Arduino: Upload*).
