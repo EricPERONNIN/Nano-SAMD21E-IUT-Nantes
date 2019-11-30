@@ -11,7 +11,7 @@ On y trouve 2 dossiers :
 - *Hardware* : contient tous les éléments concernant la fabrication du module.
 - *Software* : contient les fichiers permettant d'ajouter le module dans la liste des boards Arduino.
 
-
+Note : pour en savoir plus sur les possibilités de debug, je vous invite à consulter la vidéo Youtube https://www.youtube.com/watch?v=FRto6-Kj9mk.
 # Installation sous Arduino
 
 - Rendez-vous dans la boite de dialogue des préférences (*Fichier->Préférences...*).
