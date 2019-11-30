@@ -2,12 +2,15 @@
 Module SAMD21E avec compatibilité Arduino
 
 Ce module a été conçu pour des activités de travaux pratiques à l'IUT de Nantes dans le département GEII.
-Il repose sur l'utilisation d'un SAMD21E en boitier TQFP choisi pour son pas de 0.8mm qui permet aux étudiants de l'intégrer ensuite dans leurs propres cartes au cours des projets de seconde année.
+Pour la réalisation de ce module, nous avions plusieurs options quant au microcontrôleur à utiliser. Le SAMD21 a été retenu pour ses possibilités de debug avec l'Atmel ICE, les solutions EDBG d'Atmel mais également l'usage de STLINK v2 reprogrammés avec un firmware compatible openocd reposant sur le protocole Atmel CMSIS-DAP.
+
+Parmi les SAMD21, le choix s'est plus particulièrement arrêté sur le SAMD21E en boitier TQFP choisi pour son pas de 0.8mm qui permet aux étudiants de l'intégrer ensuite dans leurs propres cartes au cours des projets de seconde année.
 Sur ce dépôt, vous trouverez l'ensemble des documents permettant de fabriquer le module et de le programmer.
 On y trouve 2 dossiers :
 
 - *Hardware* : contient tous les éléments concernant la fabrication du module.
 - *Software* : contient les fichiers permettant d'ajouter le module dans la liste des boards Arduino.
+
 
 # Installation sous Arduino
 
