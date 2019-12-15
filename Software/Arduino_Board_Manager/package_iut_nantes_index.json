@@ -1,0 +1,37 @@
+{
+  "packages": [
+    {
+      "name": "IUTNantes",
+      "maintainer": "Département GEII",
+      "websiteURL": "http://www.geii.eu",
+      "email": "eric@geii.eu",
+      "help": {
+        "online": "http://www.geii.eu"
+      },
+      "platforms": [
+        {
+          "name": "IUT Nantes SAMD Boards  (dependency: Arduino SAMD Boards 1.8.1)",
+          "architecture": "samd",
+          "version": "1.1.0",
+          "category": "Contributed",
+          "url": "https://github.com/EricPERONNIN/Nano-samd21-IUT-Nantes/raw/master/Software/Arduino_Board_Manager/iut-nantes-samd-1.1.0.tar",
+          "archiveFileName": "iut-nantes-samd-1.1.0.tar",
+          "checksum": "SHA-256:86C47596FFE9AEE8739010932A9C73E9E8BCE9C25378E877ABAB830BC3710F41",
+          "size": "4192768",
+          "help": {
+            "online": "http://www.geii.eu"
+          },
+          "boards": [
+            {
+              "name": "Nano SAMD21E IUT Nantes"
+            }
+          ],
+          "toolsDependencies": [
+          ]
+    		}
+      ],
+      "tools": [
+      ]
+    }
+  ]
+}
